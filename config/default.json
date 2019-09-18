@@ -1,0 +1,5 @@
+{
+  "mongo-uri": "mongodb+srv://arvi:12345@example-bubfa.mongodb.net/test?retryWrites=true&w=majority",
+  "json_secret": "yeet_json_secret",
+  "gmail_pass": "bingo6..."
+}
